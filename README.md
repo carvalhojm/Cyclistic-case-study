@@ -7,7 +7,7 @@ Through data analysis, I identified that casuals and members are part of differe
 
 ## About the data
 - Source: Monthly CSV files provided by Divvy and JSON file provided by Chicago Data Portal.
-- Period: June 2024 to May 2024
+- Period: June 2024 to May 2025
 - Size: ~5 million records
 
 ## Tools used
