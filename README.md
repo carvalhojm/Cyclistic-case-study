@@ -3,6 +3,8 @@
 ## Objetive
 In Google Data Analytics Professional Certificate course on Coursera capstone project, a case study is presented for performing data analyst work for the fictional company Cyclistic.
 
+Through data analysis, I identified that casuals and members are part of different customer segments, with different habits and motivations for using the company’s service.
+
 ## About the data
 - Source: Monthly CSV files provided by Divvy and JSON file provided by Chicago Data Portal.
 - Period: June 2024 to May 2024
