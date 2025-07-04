@@ -14,8 +14,7 @@ In Google Data Analytics Professional Certificate course on Coursera capstone pr
 
 ## How to use this repository
 1. Check the queries individually in the sql_queries folder `/sql_queries`
-2. Execute all cells of `Cyclistic_case_study.ipynb`
-3. Read the insights in `Cyclistic_case_study.ipynb`
+2. Read the insights in `Cyclistic_case_study.ipynb`
 
 ## Additional files
 - [Google Sheets File](https://docs.google.com/spreadsheets/d/1OXSCOQ1uvZqFN8w9t8OzfDgAlsKG57e2ORTv95QqJYM/edit?usp=sharing)
